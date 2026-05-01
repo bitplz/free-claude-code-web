@@ -67,4 +67,4 @@ https://www.youtube.com/watch?v=VwW-VcWdPSA
 
 ---
 
-#### There may be few bugs and errors feel free to contact me or create discussion.🚀
+#### ⚠️ There may be few bugs and errors — feel free to open an issue or start a discussion.
