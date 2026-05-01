@@ -21,12 +21,11 @@ Full credit goes to the original author for building the proxy system.
 
 ### 🪟 Windows
 Double-click:
-setup-free-claude-code-windows.bat
+```setup-free-claude-code-windows.bat```
 
 ### 🍎 macOS / 🐧 Linux
 Run:
-chmod +x setup-free-claude-code-macOs.sh  
-./setup-free-claude-code-macOs.sh  
+```chmod +x setup-free-claude-code-macOs.sh  ./setup-free-claude-code-macOs.sh```
 
 ---
 
@@ -42,7 +41,7 @@ ANTHROPIC_AUTH_TOKEN="freecc"
 
 ## 🧠 Start Web UI
 
-Run: start.bat (for windows) / start.sh (for macOS)
+Run: `start.bat` (for windows) / `start.sh` (for macOS)
 
 
 ---
